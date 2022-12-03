@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 70%;
+    height: 70%;
+    background-color: rgb(101, 15, 158);
+    /* align-items: center; */
+    justify-content: center;
+    margin: auto;
+}
+
+.swipe{
+width: 30%;
+overflow: hidden;
+}
+
+.swipeimage img{
+    width: 50%;
+    margin: 10em 0 0 10em;
+}
+.imgclass{
+    height: 200px;
+    overflow: hidden;
+}
+
+.button{
+    /* color: #fff; */
+   margin-top: 10em;
+}
+
